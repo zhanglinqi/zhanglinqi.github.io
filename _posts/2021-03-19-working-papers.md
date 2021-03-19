@@ -8,4 +8,3 @@ title: Working Papers
 ["Assessing Sensitivity to Unconfoundedness: Estimation and Inference",](https://arxiv.org/abs/2012.15716) by Matthew A. Masten, Alexandre Poirier, and Linqi Zhang.
 
 *   To install the companion Stata module, type `ssc install tesensitivity`
-
