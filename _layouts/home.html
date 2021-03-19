@@ -14,22 +14,6 @@
             <p>My primary research interests are in Applied Econometrics and Industrial Organization.</p>
             <p>E-mail: linqi.zhang@bc.edu</p>
 
-            <div class="break"></div>
-
-            {% for post in paginator.posts %}
-              <div class="wow fadeIn">
-              {% if post.position == "left" %}
-                {% include content-left.html %}
-              {% endif %}
-
-              {% if post.position == "right" %}
-                {% include content-right.html %}
-              {% endif %}
-              </div>
-            {% endfor %}
-
-            {% include pagination.html %}
-
           </div>
         </div>
       </div>
