@@ -1,98 +1,92 @@
-## Phantom for Jekyll
+# Poole
 
-A minimalist, responsive portfolio theme for [Jekyll](http://jekyllrb.com/) with Bootstrap.
+*The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel's supporting cast is a man by the name of Mr. Poole, Dr. Jekyll's loyal butler.
 
-![preview](preview.jpg)
+-----
 
-[See it in action](http://jamigibbs.github.io/phantom/).
+Poole is the butler for [Jekyll](http://jekyllrb.com), the static site generator. It's designed and developed by [@mdo](https://twitter.com/mdo) to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example templates, pages, posts, and styles.
 
-## Fancy using it for your own site?
+![Poole](https://f.cloud.github.com/assets/98681/1834359/71ae4048-73db-11e3-9a3c-df38eb170537.png)
 
-Here are some steps to get you started:
+See Poole in action with [the demo site](https://demo.getpoole.com).
 
-1. Clone this repo and cd into the directory:
+There are currently two official themes built on Poole:
 
-  ```bash
-  git clone https://github.com/jamigibbs/phantom.git your-dir-name && cd your-dir-name
-  ```
+* [Hyde](https://hyde.getpoole.com)
+* [Lanyon](https://lanyon.getpoole.com)
 
-2. Run:
+Individual theme feedback and bug reports should be submitted to the theme's individual repository.
 
-  ```bash
-  gem install bundler
-  bundle install
-  bundle exec jekyll serve
-  ```
 
-  You may need to append your commands with `sudo` if you're getting a permissions error.
+## Contents
 
-  _Don't have Jekyll yet? [Get `er installed then!](http://jekyllrb.com/docs/installation/)_
+- [Usage](#usage)
+- [Development](#development)
+- [Author](#author)
+- [License](#license)
 
-3. Visit in your browser at:
 
-  `http://127.0.0.1:4000`
+## Usage
 
-## Launching with Github Pages :rocket:
+### 1. Install dependencies
 
-Jekyll + Github pages is a marriage made in heaven. You can [use your own custom domain name](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/) or use the default Github url (ie. http://username.github.io/repository) and not bother messing around with DNS settings.
+Poole is built on Jekyll and uses its built-in SCSS compiler to generate our CSS. Before getting started, you'll need to install the Jekyll gem and related dependencies:
 
-## Theme Features
-
-### Navigation
-
-Navigation can be customized in `_config.yml` under the `nav_item` key. Default settings:
-
-```yaml
-nav_item:
-    - { url: '/', text: 'Home' }
-    - { url: '/about', text: 'About' }
+```bash
+$ gem install jekyll jekyll-gist jekyll-sitemap jekyll-seo-tag
 ```
 
-Set the `nav_enable` variable to false in `_config.yml` to disable navigation.
+**Windows users:** Windows users have a bit more work to do, but luckily [@juthilo](https://github.com/juthilo) has your back with his [Run Jekyll on Windows](https://github.com/juthilo/run-jekyll-on-windows) guide.
 
-### Contact Form
+**Need syntax highlighting?** Poole includes support for Pygments or Rouge, so install your gem of choice to make use of the built-in styling. Read more about this in the [Jekyll docs](https://jekyllrb.com/docs/liquid/tags/#code-snippet-highlighting).
 
-You can display a contact form within the modal window template. This template is already setup to use the [Formspree](https://formspree.io) email system. You'll just want to add your email address to the form in `/_includes/contact-modal.html`.
+### 2a. Quick start
 
-Place the modal window template in any place you'd like the user to click for the contact form.
-The template will display a link to click for the contact form modal window:
+To help anyone with any level of familiarity with Jekyll quickly get started, Poole includes everything you need for a basic Jekyll site. To that end, just download Poole and start up Jekyll.
 
-```liquid
-{% include contact.html %}
-{% include contact-modal.html %}
+### 2b. Roll your own Jekyll site
+
+Folks wishing to use Jekyll's templates and styles can do so with a little bit of manual labor. Download Poole and then copy what you need (likely `_layouts/`, `*.html` files, `atom.xml` for RSS, and `assets/` for CSS, JS, etc.).
+
+### 3. Running locally
+
+To see your Jekyll site with Poole applied, start a Jekyll server. In Terminal, from `/poole` (or whatever your Jekyll site's root directory is named):
+
+```bash
+$ jekyll serve
 ```
 
-### Animation Effects
+Open <http://localhost:4000> in your browser, and voilà.
 
-Animations with CSS classes are baked into the theme. To animate a section or element, simply add the animation classes:
+### 4. Serving it up
 
-```html
-<div id="about-me" class="wow fadeIn">
-  I'm the coolest!
-</div>
-```
+If you host your code on GitHub, you can use [GitHub Pages](https://pages.github.com) to host your project.
 
-For a complete list of animations, see the [animation list](http://daneden.github.io/animate.css/).
+1. Fork this repo and switch to the `gh-pages` branch.
+  1. If you're [using a custom domain name](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages), modify the `CNAME` file to point to your new domain.
+  2. If you're not using a custom domain name, **modify the `baseurl` in `_config.yml`** to point to your GitHub Pages URL. Example: for a repo at `github.com/username/poole`, use `http://username.github.io/poole/`. **Be sure to include the trailing slash.**
+3. Done! Head to your GitHub Pages URL or custom domain.
 
-### Pagination
+No matter your production or hosting setup, be sure to verify the `baseurl` option file and `CNAME` settings. Not applying this correctly can mean broken styles on your site.
 
-By default, pagination on the home page will activate after 10 posts. You can change this within `_config.yml`. You can add the pagination to other layouts with:
+## Development
 
-```liquid
-  {% for post in paginator.posts %}
-    {% include post-content.html %}
-  {% endfor %}
+Poole has two branches, but only one is used for active development.
 
-  {% include pagination.html %}
-```
+- `master` for development.  **All pull requests should be to submitted against `master`.**
+- `gh-pages` for our hosted site, which includes our analytics tracking code. **Please avoid using this branch.**
 
-Read more about the [pagination plugin](http://jekyllrb.com/docs/pagination/).
+CSS is handled via Jeykll's built-in Sass compiler. Source Sass files are located in `_sass/`, included into `styles.scss`, and compile to `styles.css`.
 
-## Credit
+## Author
 
-* Bootstrap, http://getbootstrap.com/, (C) 2011 - 2016 Twitter, Inc., [MIT](https://github.com/twbs/bootstrap/blob/master/LICENSE)
+**Mark Otto**
+- <https://github.com/mdo>
+- <https://twitter.com/mdo>
 
-* Wow, https://github.com/matthieua/WOW, (C) 2014 - 2016 Matthieu Aussaguel
-, [GPL](https://github.com/matthieua/WOW#open-source-license)
 
-* Animate.css, https://github.com/daneden/animate.css, (C) 2016 Daniel Eden, [MIT](https://github.com/daneden/animate.css/blob/master/LICENSE)
+## License
+
+Open sourced under the [MIT license](LICENSE.md).
+
+<3
