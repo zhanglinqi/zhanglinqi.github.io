@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Linqi Zhang"
 email: 'linqi.zhang@bc.edu'
-description: '<p class="center">I am a 3rd year PhD Student in the Department of Economics at Boston College.</p>
+description: '<p>I am a 3rd year PhD Student in the Department of Economics at Boston College.</p>
               <p>My primary research interests are in Applied Econometrics and Industrial Organization.</p>
               <p>E-mail: linqi.zhang@bc.edu</p>'
 baseurl: "" # the subpath of your site, e.g. /blog
