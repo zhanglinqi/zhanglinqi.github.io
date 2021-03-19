@@ -19,7 +19,7 @@ description: "I am a 3rd year PhD Student in the Department of Economics at Bost
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://zhanglinqi.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 # twitter_username: 'jamigibbs'
-github_username: 'zhanglinqi'
+# github_username: 'zhanglinqi'
 # medium_username: 'blog.jamigibbs.com'
 
 # Build settings
