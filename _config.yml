@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Linqi Zhang"
 email: 'linqi.zhang@bc.edu'
-description: "<p>I am a 3rd year PhD Student in the Department of Economics at Boston College.</p>"
+description: "<div class="vertical-center"><p>I am a 3rd year PhD Student in the Department of Economics at Boston College.</p></div>"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://zhanglinqi.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 # twitter_username: 'jamigibbs'
