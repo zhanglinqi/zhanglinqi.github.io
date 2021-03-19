@@ -15,7 +15,11 @@
 # in the templates via {{ site.myvariable }}.
 title: "Linqi Zhang"
 email: 'linqi.zhang@bc.edu'
-description: "I am a 3rd year PhD Student in the Department of Economics at Boston College. My primary research interests are in Applied Econometrics and Industrial Organization."
+description: "I am a 3rd year PhD Student in the Department of Economics at Boston College. 
+
+My primary research interests are in Applied Econometrics and Industrial Organization.
+
+email: linqi.zhang@bc.edu"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://zhanglinqi.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 # twitter_username: 'jamigibbs'
@@ -92,7 +96,7 @@ pagination:
 footer_text: '© 2021 Linqi Zhang'
 admin_name: 'Linqi Zhang'
 google_analytics: "UA-9999999-99" # Update with your own tracking ID
-enable_contact: true
+enable_contact: false
 
 #### Phantom Navigation menu
 enable_nav: true
