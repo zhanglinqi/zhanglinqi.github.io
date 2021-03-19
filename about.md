@@ -1,30 +1,205 @@
 ---
-layout: page
+layout: inner
 title: About
+permalink: /about/
+---
+## Markdown
+
+Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+
+[Link to another page](/index.html).
+
+There should be whitespace between paragraphs.
+
+# Header 1
+
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+## Header 2
+
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
+
+### Header 3
+
+{% highlight js %}
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+{% endhighlight %}
+
+{% highlight ruby %}
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+{% endhighlight %}
+
+#### Header 4
+
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+
+##### Header 5
+
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header.
+
+###### Header 6
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+### There's a horizontal rule below this.
+
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+### Here is an unordered list:
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+*   Item foo
+*   Item bar
+*   Item baz
+*   Item zip
 
-There are currently two themes built on Poole:
+### And an ordered list:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+1.  Item one
+1.  Item two
+1.  Item three
+1.  Item four
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+### And a nested list:
 
-## Setup
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
 
-Some fun facts about the setup of this project include:
+### Wide image
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+### Definition lists can be used with HTML syntax.
 
-Thanks for reading!
+<dl>
+<dt>Name</dt>
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
+
+{% highlight txt %}
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+{% endhighlight %}
+
+{% highlight txt %}
+The final element.
+{% endhighlight %}
+
+---
+
+## Syntax highlighting
+
+Jekyll has [built in support](https://jekyllrb.com/docs/templates/#code-snippet-highlighting) for syntax highlighting of over 60 languages thanks to [Rouge](http://rouge.jneen.net/).
+
+To render a code block with syntax highlighting, surround your code as follows:
+
+{% highlight markdown %}
+{% raw %}
+{% highlight ruby %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
+{% endraw %}
+{% endhighlight %}
+
+[Pygments](http://pygments.org/) styles are present under section 6.0 of `css/style.scss` for customization.
+
+### Examples
+
+---
+
+#### Bash
+
+{% highlight bash %}
+>_ ssh -i ~/.ssh/id_rsa account@host.com
+account@host:~$
+$ var="my-value"
+$ echo $var
+my-value
+$ logout
+{% endhighlight %}
+
+#### HTML
+
+{% highlight html %}
+<!DOCTYPE html>
+<html>
+ <head>
+   <meta charset="UTF-8">
+   <title>title</title>
+ </head>
+ <body>
+
+ </body>
+</html>
+{% endhighlight %}
+
+#### CSS
+
+{% highlight css %}
+/*--------------------------------------------------------------
+	1.0 Defaults
+--------------------------------------------------------------*/
+
+@media (min-width: 1200px) {
+  .container {
+    width: 1200px;
+  }
+}
+
+body {
+  background-color: #e9edf0;
+  @extend %opensans;
+  -webkit-font-smoothing: antialiased;
+}
+{% endhighlight %}
+
+#### YAML
+
+{% highlight yaml %}
+### Phantom settings
+paginate: 10
+footer_text: '© 2018 Jami Gibbs'
+admin_name: 'Jami Gibbs'
+google_analytics: "UA-9999999-99" # Update with your own tracking ID
+
+#### Phantom Navigation menu
+enable_nav: true
+nav_item:
+  - { url: '/', text: 'Home' }
+  - { url: '/about', text: 'About' }
+{% endhighlight %}
