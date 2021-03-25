@@ -1,0 +1,5 @@
+># allow google
+User-agent: *
+Allow: /
+
+Sitemap: http://zhanglinqi.github.io/sitemap.xml
