@@ -1,25 +1,9 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
-
-# Permalinks
-permalink:        pretty
-
-# Setup
-title:            Linqi Zhang
-tagline:          'Linqi Zhang'
-description:      'I am a 3rd year PhD Student in the Department of Economics at Boston College.'
-url:              http://zhanglinqi.github.io
-baseurl:          /
-
-author:
-  name:           'Linqi Zhang'
-  url:            
-
-paginate:         5
-
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           
+title: Zhanhan Yu
+logo: /assets/img/logo2.png
+description:
+show_downloads: false
+google_analytics:
+theme: 
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
