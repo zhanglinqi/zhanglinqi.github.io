@@ -14,7 +14,7 @@ layout: default
 
 ## About
 
-I am a 4th-year Ph.D. student in Economics at Boston College. My research interests are in applied econometrics and empirical industrial organization.
+I am a 5th-year Ph.D. student in Economics at Boston College. My research interests are in applied econometrics and empirical industrial organization.
 
 *Linqi Zhang*  
 (Pronouns: she/her/hers)  
