@@ -4,7 +4,7 @@ layout: research
 
 ## Working Papers
 
-["Identification of a Triangular Two Equation System Without Instruments",](https://drive.google.com/file/d/1F8feYsRJgt7MrsHeDJ2TuN_ErNDxcTBV/view?usp=sharing) by Arthur Lewbel, Susanne M. Schennach, and Linqi Zhang.
+["Identification of a Triangular Two Equation System Without Instruments",](https://drive.google.com/file/d/168iai3BYumnlzspOZf8Uwx8k0Jf7pWPS/view?usp=sharing) by Arthur Lewbel, Susanne M. Schennach, and Linqi Zhang.
 
 ["Assessing Sensitivity to Unconfoundedness: Estimation and Inference",](https://arxiv.org/abs/2012.15716) by Matthew A. Masten, Alexandre Poirier, and Linqi Zhang.
 
