@@ -8,7 +8,7 @@ layout: research
 Conditionally accepted at *Journal of Business & Economic Statistic*.
 
 ["Assessing Sensitivity to Unconfoundedness: Estimation and Inference",](https://arxiv.org/abs/2012.15716) with Matthew A. Masten and Alexandre Poirier.      
-Revision requested at *Journal of Business & Economic Statistics*.
+Conditionally accepted at *Journal of Business & Economic Statistics*.
 
 *   To install the companion Stata module, type `ssc install tesensitivity`
 
