@@ -13,7 +13,7 @@ layout: cv
 > When something is important enough, you do it even if the odds are not in your favor. -->
 
 My Curriculum Vitae can be found in the following link:  
-[CV](https://www.dropbox.com/s/8bt9uwd7rfk0bdb/cv_202301.pdf?dl=0).
+[CV](https://www.dropbox.com/s/v5zfubt3iagmsfp/cv_202301.pdf?dl=0).
 
 
 [back](./)
