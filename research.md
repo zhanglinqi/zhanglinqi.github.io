@@ -10,7 +10,7 @@ layout: research
 
 "The Demand for Soft Drink: Evidence from Purchases At Home and Away From Home", with Xirong Lin. 
 
---
+---
 
 ## Publications
 
