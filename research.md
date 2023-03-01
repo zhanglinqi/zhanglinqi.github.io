@@ -10,8 +10,9 @@ layout: research
 
 "The Demand for Soft Drink: Evidence from Purchases At Home and Away From Home", with Xirong Lin. 
 
-## Publications
+--
 
+## Publications
 
 ["Identification of a Triangular Two Equation System Without Instruments",](https://drive.google.com/file/d/1XRAr9GDSg4ErfNVKHLHHbVtAsoKILQBI/view) with Arthur Lewbel and Susanne M. Schennach.   
 Forthcoming in *Journal of Business & Economic Statistic*.
