@@ -18,7 +18,7 @@ layout: research
 Forthcoming in *Journal of Business & Economic Statistic*.
 
 ["Assessing Sensitivity to Unconfoundedness: Estimation and Inference",](https://arxiv.org/abs/2012.15716) with Matthew A. Masten and Alexandre Poirier.      
-Forthcoming in *Journal of Business & Economic Statistics*.
+Forthcoming in *Journal of Business & Economic Statistics*. | [Code](https://dl.dropboxusercontent.com/s/rj6nxlh6howhzvg/Replication%20Code.zip?dl=0)
 
 *   To install the companion Stata module, type `ssc install tesensitivity` from within Stata.
 
