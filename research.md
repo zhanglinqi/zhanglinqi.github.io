@@ -17,8 +17,8 @@ layout: research
 ["Identification of a Triangular Two Equation System Without Instruments",](https://drive.google.com/file/d/1XRAr9GDSg4ErfNVKHLHHbVtAsoKILQBI/view) with Arthur Lewbel and Susanne M. Schennach.   
 Forthcoming in *Journal of Business & Economic Statistic*.
 
-["Assessing Sensitivity to Unconfoundedness: Estimation and Inference",](https://arxiv.org/abs/2012.15716) with Matthew A. Masten and Alexandre Poirier.      
-Forthcoming in *Journal of Business & Economic Statistics*. | [Code](https://dl.dropboxusercontent.com/s/rj6nxlh6howhzvg/Replication%20Code.zip?dl=0)
+["Assessing Sensitivity to Unconfoundedness: Estimation and Inference",](https://arxiv.org/abs/2012.15716) with Matthew A. Masten and Alexandre Poirier ([Replication files](https://dl.dropboxusercontent.com/s/rj6nxlh6howhzvg/Replication%20Code.zip?dl=0)).      
+Forthcoming in *Journal of Business & Economic Statistics*.
 
 *   To install the companion Stata module, type `ssc install tesensitivity` from within Stata.
 
