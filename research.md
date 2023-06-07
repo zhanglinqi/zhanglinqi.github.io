@@ -4,11 +4,15 @@ layout: research
 
 ## Working Papers
 
-["Instrument-free estimation of triangular equation systems with the trigmm command",](https://drive.google.com/file/d/1ssduVrNYEQ9bbyhdq8nTTbKCnfGndskI/view) with Heejun Lee, Arthur Lewbel and Susanne M. Schennach.
 
-"Identification and Estimation of Market Size in Discrete Choice Demand Model". (*Draft coming soon.*)
+["Identification and Estimation of Market Size in Discrete Choice Demand Models".](https://zhanglinqi.github.io/assets/pdf/restart-measurement_error_mkt_v19.pdf) (*New draft coming soon.*)   
+Presentations: BC, BU-BC Econometrics Workshop, IIOC, CEA
 
-"The Demand for Soft Drink: Evidence from Purchases At Home and Away From Home", with Xirong Lin. 
+["Instrument-free estimation of triangular equation systems with the trigmm command",](https://drive.google.com/file/d/1ssduVrNYEQ9bbyhdq8nTTbKCnfGndskI/view) with Heejun Lee, Arthur Lewbel and Susanne M. Schennach.   
+Revision requested at *Stata Journal*.
+
+"The Demand for Soft Drink: Evidence from Purchases At Home and Away From Home", with Xirong Lin.   
+Presentations: SEHO
 
 ---
 
