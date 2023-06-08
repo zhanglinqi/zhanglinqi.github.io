@@ -26,4 +26,4 @@ Forthcoming in *Journal of Business & Economic Statistics*.
 
 *   To install the companion Stata module, type `ssc install tesensitivity` from within Stata.
 
-[back](./)
+<!--[back](./)-->

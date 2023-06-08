@@ -16,4 +16,4 @@ layout: teaching
   - ECON 2278 Environmental Economics (Undergraduate), Fall 2022
 
 
-[back](./)
+<!--[back](./)-->

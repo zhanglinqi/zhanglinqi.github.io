@@ -15,4 +15,4 @@ layout: cv
 [Curriculum Vitae (pdf)](https://zhanglinqi.github.io/assets/pdf/CV_Linqi_Zhang.pdf).
 
 
-[back](./)
+<!--[Back](./)-->
