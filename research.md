@@ -30,6 +30,6 @@ Forthcoming in *Journal of Business & Economic Statistics*.
 
 ## In Progress Projects
 
-"Identifying Models with Mismeasured Endogenous Regressor Without Instruments: an Application to Monopsony in Academic Labor Markets", with Zhanhan Yu.
+"Identifying Models With Mismeasured Endogenous Regressors Without Instruments: an Application to Monopsony in Academic Labor Markets", with Zhanhan Yu.
 
 <!--[back](./)-->
