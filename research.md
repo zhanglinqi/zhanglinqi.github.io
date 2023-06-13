@@ -26,4 +26,10 @@ Forthcoming in *Journal of Business & Economic Statistics*.
 
 *   To install the companion Stata module, type `ssc install tesensitivity` from within Stata.
 
+---
+
+## In Progress Projects
+
+"Identifying Mismeasured Endogenous Regressor Models Without Instruments, With an Application to Monopsony in Academic Labor Markets", with Zhanhan Yu.
+
 <!--[back](./)-->
