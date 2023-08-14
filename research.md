@@ -6,7 +6,6 @@ layout: research
 
 
 ["Identification and Estimation of Market Size in Discrete Choice Demand Models".](https://zhanglinqi.github.io/assets/pdf/restart-measurement_error_mkt_v20.pdf)   
-*Submitted*   
 Presentations: BC, BU-BC Econometrics Workshop, IIOC, CEA
 
 ["Instrument-free estimation of triangular equation systems with the trigmm command",](https://drive.google.com/file/d/1ssduVrNYEQ9bbyhdq8nTTbKCnfGndskI/view) with Heejun Lee, [Arthur Lewbel](https://sites.google.com/bc.edu/arthur-lewbel) and [Susanne M. Schennach](https://sites.google.com/a/brown.edu/smschenn/).   
