@@ -6,12 +6,13 @@ layout: research
 
 
 ["Identification and Estimation of Market Size in Discrete Choice Demand Models".](https://zhanglinqi.github.io/assets/pdf/restart-measurement_error_mkt_v20.pdf)   
+*Submitted*   
 Presentations: BC, BU-BC Econometrics Workshop, IIOC, CEA
 
 ["Instrument-free estimation of triangular equation systems with the trigmm command",](https://drive.google.com/file/d/1ssduVrNYEQ9bbyhdq8nTTbKCnfGndskI/view) with Heejun Lee, [Arthur Lewbel](https://sites.google.com/bc.edu/arthur-lewbel) and [Susanne M. Schennach](https://sites.google.com/a/brown.edu/smschenn/).   
 Revision requested at *Stata Journal*.
 
-"The Demand for Soft Drink: Evidence from Purchases At Home and Away From Home", with [Xirong Lin](http://www.xirong-lin.com).   
+["Who is Most Affected by Soda Taxes? Evidence from Purchases At-Home and Away-From-Home",](https://zhanglinqi.github.io/assets/pdf/demand_linkage_fah_fafh_v10.pdf) with [Xirong Lin](http://www.xirong-lin.com).   
 Presentations: SEHO
 
 ---
