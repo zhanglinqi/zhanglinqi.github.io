@@ -14,12 +14,15 @@ layout: default
 
 ## About
 
-I am a 5th-year Ph.D. student in Economics at Boston College. My research interests are in applied econometrics and empirical industrial organization.
+I am a Ph.D. candidate in Economics at Boston College. My research interests are in applied econometrics, empirical industrial organization, and applied microeconomics.
+
+*I am on the 2023/2024 job market and available for interviews.*
 
 *Linqi Zhang*  
 (Pronouns: she/her/hers)  
 Department of Economics  
 Boston College
 
+**Contact**   
 Email: linqi.zhang[at]bc.edu   
 Address: 140 Commonwealth Avenue, Chestnut Hill, MA 02467
