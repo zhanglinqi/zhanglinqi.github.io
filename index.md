@@ -16,7 +16,9 @@ layout: default
 
 I am a Ph.D. candidate in Economics at Boston College. My research interests are in applied econometrics, empirical industrial organization, and applied microeconomics.
 
-*I am on the 2023/2024 job market and available for interviews.*
+*I am on the 2023/2024 job market.*
+
+**References:** [Arthur Lewbel](https://sites.google.com/bc.edu/arthur-lewbel) (chair), [Charles Murry](https://charliemurry.github.io), [Richard Sweeney](http://www.richard-sweeney.com)
 
 *Linqi Zhang*  
 (Pronouns: she/her/hers)  
