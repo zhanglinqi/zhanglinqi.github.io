@@ -20,7 +20,7 @@ I am a Ph.D. candidate in Economics at Boston College. My research interests are
 
 **References:** [Arthur Lewbel](https://sites.google.com/bc.edu/arthur-lewbel) (chair), [Charles Murry](https://charliemurry.github.io), [Richard Sweeney](http://www.richard-sweeney.com)
 
---
+---
 
 **Contact**   
 Department of Economics  
