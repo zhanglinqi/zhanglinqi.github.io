@@ -20,11 +20,11 @@ I am a Ph.D. candidate in Economics at Boston College. My research interests are
 
 **References:** [Arthur Lewbel](https://sites.google.com/bc.edu/arthur-lewbel) (chair), [Charles Murry](https://charliemurry.github.io), [Richard Sweeney](http://www.richard-sweeney.com)
 
-*Linqi Zhang*  
-(Pronouns: she/her/hers)  
-Department of Economics  
-Boston College
+--
 
 **Contact**   
+Department of Economics  
+Boston College  
+Address: 140 Commonwealth Avenue, Chestnut Hill, MA 02467  
 Email: linqi.zhang[at]bc.edu   
-Address: 140 Commonwealth Avenue, Chestnut Hill, MA 02467
+
