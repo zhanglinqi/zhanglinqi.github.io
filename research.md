@@ -5,7 +5,7 @@ layout: research
 ## Working Papers
 
 
-["Identification and Estimation of Market Size in Discrete Choice Demand Models".](https://zhanglinqi.github.io/assets/pdf/restart-measurement_error_mkt_v20.pdf)   
+["Identification and Estimation of Market Size in Discrete Choice Demand Models".](https://zhanglinqi.github.io/assets/pdf/market_size_Linqi_Zhang.pdf)   
 *Submitted*   
 Presentations: BC, BU-BC Econometrics Workshop, IIOC, CEA, EARIE
 
