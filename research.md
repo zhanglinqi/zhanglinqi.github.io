@@ -13,8 +13,7 @@ Presentations: BC, BU-BC Econometrics Workshop, IIOC, CEA, EARIE
 Revision requested at *Stata Journal*.
 
 ["Who is Most Affected by Soda Taxes? Evidence from Purchases At-Home and Away-From-Home",](https://zhanglinqi.github.io/assets/pdf/demand_linkage_fah_fafh_v10.pdf) with [Xirong Lin](http://www.xirong-lin.com).   
-*Submitted*   
-Presentations: SEHO
+Presentations: SEHO, BC
 
 ---
 
