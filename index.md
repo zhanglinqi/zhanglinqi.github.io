@@ -14,7 +14,7 @@ layout: default
 
 ## About
 
-I am a Ph.D. candidate in Economics at Boston College. My research interests are in empirical industrial organization and applied econometrics.
+I am a Ph.D. candidate in Economics at Boston College. My research interests are in **Industrial Organization** and **Applied Econometrics**.
 
 *I am on the 2023/2024 job market.*
 
