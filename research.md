@@ -31,6 +31,21 @@ Forthcoming at *Journal of Business & Economic Statistics*.
 
 ## In Progress Projects
 
-"Identifying Models With Mismeasured Endogenous Regressors Without Instruments: an Application to Monopsony in Academic Labor Markets", with Zhanhan Yu.
+"Buying in Small Quantities", with Yuzhi Yao.
+<details>
+	<summary><u>Abstract</u></summary>
+	Dollar stores feature products sold in small sizes, which are not necessarily cheaper in terms of unit price. The behavior of purchasing in smaller quantities, especially among low-income consumers, is puzzling given the quantity discount associated with bulk-buying. To unravel this phenomenon, we develop a structural model to disentangle potential explanations: limited access due to lack of transportation, liquidity constraints, and storage costs. 
+</details>
+
+
+"Identifying Models With Mismeasured Endogenous Regressors Without Instruments", with Zhanhan Yu.
+<details>
+	<summary><u>Abstract</u></summary>
+	We extend the model considered in Lewbel, Schennach, and Zhang (2023) to allow for measurement errors in the endogenous regressor. One limitation of Lewbel, Schennach, and Zhang (2023) is that they require the common latent variable to be a scalar, while we extend their results to allow for a vector of unobservable shocks, and it contains measurement error as a special case. The correction utilizes higher-order moments of variables.
+</details>
+
+
+"Marijuana Tax and Product Variety".
+
 
 <!--[back](./)-->
