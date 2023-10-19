@@ -31,13 +31,13 @@ Forthcoming at *Journal of Business & Economic Statistics*.
 
 ## In Progress Projects
 
-<p>"Buying in Small Quantities", with Yuzhi Yao. 
+<p style="margin: 0px 0px 2px;">"Buying in Small Quantities", with Yuzhi Yao. 
 <details>
-	<summary><u>Abstract</u></summary>
+<summary><u>Abstract</u></summary> 
 Dollar stores feature products sold in small sizes, which are not necessarily cheaper in terms of unit price. The behavior of purchasing in smaller quantities, especially among low-income consumers, is puzzling given the quantity discount associated with bulk-buying. To unravel this phenomenon, we develop a structural model to disentangle potential explanations: limited access due to lack of transportation, liquidity constraints, and storage costs. 
 </details></p>
 
-<p>
+<p style="margin: 0px 0px 2px;">
 "Identifying Models With Mismeasured Endogenous Regressors Without Instruments", with Zhanhan Yu.
 <details>
 	<summary><u>Abstract</u></summary>
