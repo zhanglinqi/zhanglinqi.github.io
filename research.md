@@ -12,7 +12,7 @@ Presentations: BC, BU-BC Econometrics Workshop, IIOC, CEA, EARIE
 ["Instrument-free estimation of triangular equation systems with the trigmm command",](https://drive.google.com/file/d/1ssduVrNYEQ9bbyhdq8nTTbKCnfGndskI/view) with Heejun Lee, [Arthur Lewbel](https://sites.google.com/bc.edu/arthur-lewbel) and [Susanne M. Schennach](https://sites.google.com/a/brown.edu/smschenn/).   
 Revision requested at *Stata Journal*.
 
-["Who is Most Affected by Soda Taxes? Evidence from Purchases At-Home and Away-From-Home",](https://zhanglinqi.github.io/assets/pdf/demand_linkage_fah_fafh_v10.pdf) with [Xirong Lin](http://www.xirong-lin.com).   
+["Who is Most Affected by Soda Taxes? Evidence from Purchases At-Home and Away-From-Home",](https://zhanglinqi.github.io/assets/pdf/soda_tax_Linqi_Zhang.pdf) with [Xirong Lin](http://www.xirong-lin.com).   
 Presentations: SEHO, BC
 
 ---
