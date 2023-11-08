@@ -45,7 +45,9 @@ Dollar stores feature products sold in small sizes, which are not necessarily ch
 </details>
 </p>
 
-"Marijuana Tax and Product Variety".
+"Identification of Discrete-Continuous Models with Large Choice Sets and Complementarity".
+
+<!--"Marijuana Tax and Product Variety".-->
 
 
 <!--[back](./)-->
