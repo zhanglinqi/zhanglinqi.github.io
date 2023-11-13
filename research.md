@@ -8,7 +8,7 @@ layout: research
 ["Identification and Estimation of Market Size in Discrete Choice Demand Models".](https://zhanglinqi.github.io/assets/pdf/market_size_Linqi_Zhang.pdf) (Job Market Paper)   
 *Submitted*  
 Presentations: BC, BU-BC Econometrics Workshop, IIOC, CEA, EARIE    
-<details>
+<details style="margin-bottom:10px;">
 <summary><u>Abstract</u></summary> 
 <p> Within the framework of Berry (1994) and Berry, Levinsohn, and Pakes (1995), the existing empirical industrial organization literature often assumes that market size is observed. However, the presence of an unobservable outside option is a common source of mismeasurement. Measurement errors in market size lead to inconsistent estimates of elasticities, diversion ratios, and counterfactual simulations. I explicitly model the market size, and prove point identification of the market size model along with all demand parameters in a random coefficients logit (BLP) model. No additional data beyond what is needed to estimate standard BLP models is required. Identification comes from the exogenous variation in product characteristics across markets and the nonlinearity of the demand system. I apply the method to a merger simulation in the carbonated soft drinks (CSD) market in the US, and find that assuming a market size larger than the true estimated size would underestimate merger price increases.
 </p>
