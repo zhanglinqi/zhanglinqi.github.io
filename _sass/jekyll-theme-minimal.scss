@@ -12,15 +12,15 @@ body {
 details {
   font: 14px/1.5 Palatino, sans-serif;
   width: 100%;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-top: 2px;
+  margin-bottom: 10px;
 }
 
 details > p {
   border-radius: 0 0 10px 10px;
-  margin-left: 40px;
-  margin-right: 40px;
-  margin-bottom: 40px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 30px;
 }
 
 details > summary {
@@ -29,7 +29,7 @@ details > summary {
   // border: 1px solid;
   // box-shadow: none;
   cursor: pointer;
-  margin-top: 10px;
+  margin-top: 5px;
   margin-bottom: 10px;
 }
 
