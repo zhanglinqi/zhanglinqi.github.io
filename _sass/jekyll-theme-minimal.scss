@@ -4,15 +4,14 @@
 body {
   background-color: #fff;
   padding:80px;
-  font: 14px/1.5 Palatino, "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 15px/1.5 Palatino, "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
   font-weight:400;
 }
 
 details {
-  font: 14px/1.5 Palatino, sans-serif;
+  font: 15px/1.5 Palatino, sans-serif;
   width: 100%;
-  margin-top: 20px;
   margin-bottom: 10px;
 }
 
@@ -29,7 +28,7 @@ details > summary {
   // border: 1px solid;
   // box-shadow: none;
   cursor: pointer;
-  margin-top: 5px;
+  // margin-top: 5px;
   margin-bottom: 10px;
 }
 
@@ -47,7 +46,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p, ul, ol, table, pre, dl {
-  margin:0 0 20px;
+  margin:0 0 10px 10px;
 }
 
 h1, h2, h3 {
@@ -212,7 +211,7 @@ strong {
 }
 
 .downloads a strong {
-  font-size:14px;
+  font-size:15px;
   display:block;
   color:#222;
 }
