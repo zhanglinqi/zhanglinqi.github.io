@@ -8,11 +8,12 @@ layout: research
 ["Identification and Estimation of Market Size in Discrete Choice Demand Models".](https://zhanglinqi.github.io/assets/pdf/market_size_Linqi_Zhang.pdf) (Job Market Paper)   
 *Submitted*  
 Presentations: BC, BU-BC Econometrics Workshop, IIOC, CEA, EARIE    
-<details style="margin-bottom:10px;">
+<details>
 <summary><u>Abstract</u></summary> 
 <p> Within the framework of Berry (1994) and Berry, Levinsohn, and Pakes (1995), the existing empirical industrial organization literature often assumes that market size is observed. However, the presence of an unobservable outside option is a common source of mismeasurement. Measurement errors in market size lead to inconsistent estimates of elasticities, diversion ratios, and counterfactual simulations. I explicitly model the market size, and prove point identification of the market size model along with all demand parameters in a random coefficients logit (BLP) model. No additional data beyond what is needed to estimate standard BLP models is required. Identification comes from the exogenous variation in product characteristics across markets and the nonlinearity of the demand system. I apply the method to a merger simulation in the carbonated soft drinks (CSD) market in the US, and find that assuming a market size larger than the true estimated size would underestimate merger price increases.
 </p>
 </details>
+
 
 ["Who is Most Affected by Soda Taxes? Evidence from Purchases At-Home and Away-From-Home",](https://zhanglinqi.github.io/assets/pdf/soda_tax_Linqi_Zhang.pdf) with [Xirong Lin](http://www.xirong-lin.com).   
 Presentations: SEHO, BC
@@ -47,13 +48,15 @@ Forthcoming at *Journal of Business & Economic Statistics*.
 
 ["Assessing Sensitivity to Unconfoundedness: Estimation and Inference",](https://arxiv.org/abs/2012.15716) with [Matthew A. Masten](https://mattmasten.github.io) and [Alexandre Poirier](https://sites.google.com/site/alexpoirierecon/) ([Replication files](https://dl.dropboxusercontent.com/s/rj6nxlh6howhzvg/Replication%20Code.zip?dl=0)).      
 Forthcoming at *Journal of Business & Economic Statistics*.
+
+*   To install the companion Stata module, type `ssc install tesensitivity` from within Stata.
+
 <details>
 <summary><u>Abstract</u></summary> 
 <p> This paper provides a set of methods for quantifying the robustness of treatment effects estimated using the unconfoundedness assumption (also known as selection on observables or conditional independence). Specifically, we estimate and do inference on bounds on various treatment effect parameters, like the average treatment effect (ATE) and the average effect of treatment on the treated (ATT), under nonparametric relaxations of the unconfoundedness assumption indexed by a scalar sensitivity parameter c. These relaxations allow for limited selection on unobservables, depending on the value of c. For large enough c, these bounds equal the no assumptions bounds. Using a non-standard bootstrap method, we show how to construct confidence bands for these bound functions which are uniform over all values of c. We illustrate these methods with an empirical application to effects of the National Supported Work Demonstration program. We implement these methods in a companion Stata module for easy use in practice.
 </p>
 </details>
 
-*   To install the companion Stata module, type `ssc install tesensitivity` from within Stata.
 
 ---
 
