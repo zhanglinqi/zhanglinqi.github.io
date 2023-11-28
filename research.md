@@ -69,10 +69,10 @@ Forthcoming at *Journal of Business & Economic Statistics*.
 </details>
 
 
-"Identifying Models With Mismeasured Endogenous Regressors Without Instruments", with Zhanhan Yu.
+"Identifying Models With Mismeasured Endogenous Regressors Without Instruments: with an Application to Monopsony in Academic Labor Markets", with Zhanhan Yu.
 <details>
 	<summary><u>Abstract</u></summary>
-<p> We extend the model considered in Lewbel, Schennach, and Zhang (2023) to allow for measurement errors in the endogenous regressor. One limitation of Lewbel, Schennach, and Zhang (2023) is that they require the common latent variable to be a scalar, while we extend their results to allow for a vector of unobservable shocks, and it contains measurement error as a special case. The correction utilizes higher-order moments of variables.</p>
+<p> We extend the model considered in Lewbel, Schennach, and Zhang (2023) to allow for measurement errors in the endogenous regressor. One limitation of Lewbel, Schennach, and Zhang (2023) is that they require the common latent variable to be a scalar, while we extend their results to allow for a vector of unobservable shocks, and it contains measurement error as a special case. The correction utilizes higher-order moments of variables. We apply this approach to study the monopsony power in academic labor markets at public research universities, addressing measurement error concerns in faculty salaries. </p>
 </details>
 <!--	<p style="margin: 0px 0px 30px;">-->
 

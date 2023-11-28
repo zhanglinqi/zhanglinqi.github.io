@@ -14,7 +14,7 @@ layout: default
 
 ## About
 
-I am a Ph.D. candidate in Economics at Boston College. My research interests are in **Industrial Organization** and **Applied Econometrics**.
+I am a Ph.D. candidate in Economics at Boston College. My research interests are in **Industrial Organization** and **Applied Econometrics**. My work focuses on the identification of structural models and their applications to policy questions, with a particular focus on demand analysis.
 
 *I am on the 2023/2024 job market.*
 
