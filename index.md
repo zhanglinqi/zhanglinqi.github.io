@@ -26,5 +26,5 @@ For the 2024-2025 academic year, I will be a postdoc researcher at the Norwegian
 Department of Economics  
 Boston College  
 Address: 140 Commonwealth Avenue, Chestnut Hill, MA 02467  
-Email: linqi.zhang[at]bc.edu   
+Email: zhanglinqi.lz[at]gmail.com   
 
