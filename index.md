@@ -23,8 +23,8 @@ For the 2024-2025 academic year, I will be a postdoc researcher at the Norwegian
 ---
 
 **Contact**   
-Department of Economics  
-Boston College  
-Address: 140 Commonwealth Avenue, Chestnut Hill, MA 02467  
+<!--Department of Economics  
+NHH - Norwegian School of Economics  
+Address: Helleveien 30, 5045 Bergen, Norway  -->
 Email: zhanglinqi.lz[at]gmail.com   
 
