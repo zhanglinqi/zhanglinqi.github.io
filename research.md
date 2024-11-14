@@ -37,22 +37,22 @@ conditions for identification and derived associated moment conditions. The esti
 
 ## Publications
 
-["Identification of a Triangular Two Equation System Without Instruments",](https://drive.google.com/file/d/1XRAr9GDSg4ErfNVKHLHHbVtAsoKILQBI/view) with [Arthur Lewbel](https://sites.google.com/bc.edu/arthur-lewbel) and [Susanne M. Schennach](https://sites.google.com/a/brown.edu/smschenn/).   
-Forthcoming at *Journal of Business & Economic Statistics*.
-<details>
-<summary><u>Abstract</u></summary> 
-<p> We show that a standard linear triangular two equation system can be point identified, without the use of instruments or any other side information. We find that the only case where the model is not point identified is when a latent variable that causes endogeneity is normally distributed. In this non-identified case, we derive the sharp identified set. We apply our results to Acemoglu and Johnson’s (2007) model of life expectancy and GDP, obtaining point identification and comparable estimates to theirs, without using their (or any other) instrument.
-</p>
-</details>
-
 ["Assessing Sensitivity to Unconfoundedness: Estimation and Inference",](https://arxiv.org/abs/2012.15716) with [Matthew A. Masten](https://mattmasten.github.io) and [Alexandre Poirier](https://sites.google.com/site/alexpoirierecon/) ([Replication files](https://dl.dropboxusercontent.com/s/rj6nxlh6howhzvg/Replication%20Code.zip?dl=0)).      
-Forthcoming at *Journal of Business & Economic Statistics*.
+*Journal of Business & Economic Statistics*, 2024, 42 (1), pp. 1-13.
 
 *   To install the companion Stata module, type `ssc install tesensitivity` from within Stata.
 
 <details>
 <summary><u>Abstract</u></summary> 
 <p> This paper provides a set of methods for quantifying the robustness of treatment effects estimated using the unconfoundedness assumption (also known as selection on observables or conditional independence). Specifically, we estimate and do inference on bounds on various treatment effect parameters, like the average treatment effect (ATE) and the average effect of treatment on the treated (ATT), under nonparametric relaxations of the unconfoundedness assumption indexed by a scalar sensitivity parameter c. These relaxations allow for limited selection on unobservables, depending on the value of c. For large enough c, these bounds equal the no assumptions bounds. Using a non-standard bootstrap method, we show how to construct confidence bands for these bound functions which are uniform over all values of c. We illustrate these methods with an empirical application to effects of the National Supported Work Demonstration program. We implement these methods in a companion Stata module for easy use in practice.
+</p>
+</details>
+
+["Identification of a Triangular Two Equation System Without Instruments",](https://drive.google.com/file/d/1XRAr9GDSg4ErfNVKHLHHbVtAsoKILQBI/view) with [Arthur Lewbel](https://sites.google.com/bc.edu/arthur-lewbel) and [Susanne M. Schennach](https://sites.google.com/a/brown.edu/smschenn/).   
+*Journal of Business & Economic Statistics*, 2024, 42(1), pp. 14-25.
+<details>
+<summary><u>Abstract</u></summary> 
+<p> We show that a standard linear triangular two equation system can be point identified, without the use of instruments or any other side information. We find that the only case where the model is not point identified is when a latent variable that causes endogeneity is normally distributed. In this non-identified case, we derive the sharp identified set. We apply our results to Acemoglu and Johnson’s (2007) model of life expectancy and GDP, obtaining point identification and comparable estimates to theirs, without using their (or any other) instrument.
 </p>
 </details>
 
