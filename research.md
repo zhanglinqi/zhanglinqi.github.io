@@ -38,7 +38,7 @@ conditions for identification and derived associated moment conditions. The esti
 ## Publications
 
 ["Assessing Sensitivity to Unconfoundedness: Estimation and Inference",](https://arxiv.org/abs/2012.15716) with [Matthew A. Masten](https://mattmasten.github.io) and [Alexandre Poirier](https://sites.google.com/site/alexpoirierecon/) ([Replication files](https://dl.dropboxusercontent.com/s/rj6nxlh6howhzvg/Replication%20Code.zip?dl=0)).      
-*Journal of Business & Economic Statistics*, 2024, 42 (1), pp. 1-13.
+*Journal of Business & Economic Statistics*, 2024, 42(1), pp. 1-13.
 
 *   To install the companion Stata module, type `ssc install tesensitivity` from within Stata.
 
