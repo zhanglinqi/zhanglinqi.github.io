@@ -32,6 +32,12 @@ conditions for identification and derived associated moment conditions. The esti
 </p>
 </details>
 
+["Identifying Models With Mismeasured Endogenous Regressors Without Instruments: an Application to Monopsony in Academic Labor Markets",](https://zhanglinqi.github.io/assets/pdf/noside_error_monopsony_LZ_ZY.pdf) with [Zhanhan Yu](https://yuzhanhan.github.io/personal-website/).
+<details>
+<summary><u>Abstract</u></summary> 
+<p> We extend the linear triangular structural model considered in Lewbel, Schennach, and Zhang (2024) to allow for measurement errors in the endogenous regressor. We show identification of the causal effect and distributions of unobservables using higher-order moments of variables when instrumental variables or repeated measurements are not available. We apply this approach to study monopsony power in the labor market for university professors at public research universities within the University System of Georgia, addressing endogeneity and measurement error concerns related to faculty salaries in the absence of suitable instruments. We find evidence of monopsony, with the exploitation rate -- a common measure of monopsony power -- robustly estimated at 36%. Our analysis shows that ignoring measurement error would significantly underestimate monopsony power.
+</p>
+</details>
 
 ---
 
@@ -67,12 +73,6 @@ conditions for identification and derived associated moment conditions. The esti
 <p> Dollar stores feature products sold in small sizes, which are not necessarily cheaper in terms of unit price. The behavior of purchasing in smaller quantities, especially among low-income consumers, is puzzling given the quantity discount associated with bulk-buying. To unravel this phenomenon, we develop a structural model to disentangle potential explanations: limited access due to lack of transportation, liquidity constraints, and storage costs. </p>
 </details>
 
-
-"Identifying Models With Mismeasured Endogenous Regressors Without Instruments: with an Application to Monopsony in Academic Labor Markets", with Zhanhan Yu.
-<details>
-	<summary><u>Abstract</u></summary>
-<p> We extend the model considered in Lewbel, Schennach, and Zhang (2023) to allow for measurement errors in the endogenous regressor. One limitation of Lewbel, Schennach, and Zhang (2023) is that they require the common latent variable to be a scalar, while we extend their results to allow for a vector of unobservable shocks, and it contains measurement error as a special case. The correction utilizes higher-order moments of variables. We apply this approach to study the monopsony power in academic labor markets at public research universities, addressing measurement error concerns in faculty salaries. </p>
-</details>
 <!--	<p style="margin: 0px 0px 30px;">-->
 
 "Identification of Discrete-Continuous Models with Large Choice Sets and Complementarity".
