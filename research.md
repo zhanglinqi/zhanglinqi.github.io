@@ -5,7 +5,7 @@ layout: research
 ## Working Papers
 
 
-["Identification and Estimation of Market Size in Discrete Choice Demand Models".](https://zhanglinqi.github.io/assets/pdf/market_size_Linqi_Zhang.pdf)   
+["Identification and Estimation of Market Size in Discrete Choice Demand Models"](https://zhanglinqi.github.io/assets/pdf/market_size_Linqi_Zhang.pdf) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4545848)].   
 Presentations: BC, BU-BC Econometrics Workshop, IIOC, CEA, EARIE, Microeconometrics Class of 2024 Conference   
 <details>
 <summary><u>Abstract</u></summary> 
@@ -14,7 +14,7 @@ Presentations: BC, BU-BC Econometrics Workshop, IIOC, CEA, EARIE, Microeconometr
 </details>
 
 
-["Who is Most Affected by Soda Taxes? Evidence from Purchases At-Home and Away-From-Home",](https://zhanglinqi.github.io/assets/pdf/soda_tax_Linqi_Zhang.pdf) with [Xirong Lin](http://www.xirong-lin.com).   
+["Who is Most Affected by Soda Taxes? Evidence from Purchases At-Home and Away-From-Home"](https://zhanglinqi.github.io/assets/pdf/soda_tax_Linqi_Zhang.pdf) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4953476)], with [Xirong Lin](http://www.xirong-lin.com).   
 Presentations: SEHO, BC
 <details>
 <summary><u>Abstract</u></summary> 
@@ -43,7 +43,7 @@ conditions for identification and derived associated moment conditions. The esti
 
 ## Publications
 
-["Assessing Sensitivity to Unconfoundedness: Estimation and Inference",](https://arxiv.org/abs/2012.15716) with [Matthew A. Masten](https://mattmasten.github.io) and [Alexandre Poirier](https://sites.google.com/site/alexpoirierecon/) ([Replication files](https://dl.dropboxusercontent.com/s/rj6nxlh6howhzvg/Replication%20Code.zip?dl=0)).      
+["Assessing Sensitivity to Unconfoundedness: Estimation and Inference"](https://arxiv.org/abs/2012.15716) [[Replication files](https://dl.dropboxusercontent.com/s/rj6nxlh6howhzvg/Replication%20Code.zip?dl=0)], with [Matthew A. Masten](https://mattmasten.github.io) and [Alexandre Poirier](https://sites.google.com/site/alexpoirierecon/).      
 *Journal of Business & Economic Statistics*, 2024, 42(1), pp. 1-13.
 
 *   To install the companion Stata module, type `ssc install tesensitivity` from within Stata.
