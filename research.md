@@ -40,7 +40,8 @@ conditions for identification and derived associated moment conditions. The esti
 </p>
 </details>
 
-["Identification of Differentiated Products Demand with Micro Moments: Consumer Panel Data ",](https://www.dropbox.com/scl/fi/w1z7gbefvrqnl9gccaz3n/MicroMoments-main.pdf?rlkey=2953zy15wgbmuqqniayswatlq&st=y3qj1irz&dl=0) with [Øyvind Thomassen](https://sites.google.com/site/oyvindthomassen/).<details>
+["Identification of Differentiated Products Demand with Micro Moments: Consumer Panel Data ",](https://www.dropbox.com/scl/fi/w1z7gbefvrqnl9gccaz3n/MicroMoments-main.pdf?rlkey=2953zy15wgbmuqqniayswatlq&st=y3qj1irz&dl=0) with [Øyvind Thomassen](https://sites.google.com/site/oyvindthomassen/).
+<details>
 <summary><u>Abstract</u></summary> 
 <p> This paper derives identification conditions for BLP-style differentiated products demand models with micro moments from consumer panel data. Identification leverages cross-period dependence of unobserved preference heterogeneity. Identification conditions are provided for models with nonparametrically specified random coefficients. Monte Carlo simulations suggest that incorporating consumer panel data can achieve performance comparable to that of second-choice data.
 </p>
