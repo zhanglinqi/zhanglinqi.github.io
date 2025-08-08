@@ -14,17 +14,20 @@ layout: default
 
 ## About
 
-My research interests are in **Industrial Organization** and **Applied Econometrics**. My work focuses on the identification of structural models and their applications to policy questions, with a particular focus on demand analysis.
+I am an Assistant Professor at the Chinese University of Hong Kong (CUHK) Business School. 
 
-For the 2024-2025 academic year, I will be a postdoc researcher at the Norwegian School of Economics (NHH). I will join the Chinese University of Hong Kong (CUHK) Business School as a tenure-track Assistant Professor in Fall 2025. I obtained my Ph.D. from Boston College. 
+My research interests are in **Empirical Industrial Organization** and **Applied Econometrics**. My work focuses on the identification of structural models and their applications to policy questions, with a particular focus on demand analysis.
 
-**References:** [Arthur Lewbel](https://sites.google.com/bc.edu/arthur-lewbel) (chair), [Charles Murry](https://charliemurry.github.io), [Richard Sweeney](http://www.richard-sweeney.com)
+I obtained my Ph.D. from Boston College. I worked as a postdoc researcher at the Norwegian School of Economics (NHH) for the 2024-2025 academic year.
+
+<!--**References:** [Arthur Lewbel](https://sites.google.com/bc.edu/arthur-lewbel) (chair), [Charles Murry](https://charliemurry.github.io), [Richard Sweeney](http://www.richard-sweeney.com)-->
 
 ---
 
 **Contact**   
-<!--Department of Economics  
-NHH - Norwegian School of Economics  
-Address: Helleveien 30, 5045 Bergen, Norway  -->
-Email: zhanglinqi.lz[at]gmail.com   
+Room 749H, 7/F	
+Cheng Yu Tung Building	
+12 Chak Cheung Street	
+Shatin, N.T., Hong Kong		
+Email: linqizhang[at]cuhk.edu.hk   
 

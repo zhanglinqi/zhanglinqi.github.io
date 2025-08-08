@@ -23,7 +23,7 @@ Presentations: SEHO, BC
 </details>
 
 ["Instrument-free estimation of triangular equation systems with the trigmm command",](https://drive.google.com/file/d/1ssduVrNYEQ9bbyhdq8nTTbKCnfGndskI/view) with Heejun Lee, [Arthur Lewbel](https://sites.google.com/bc.edu/arthur-lewbel) and [Susanne M. Schennach](https://sites.google.com/a/brown.edu/smschenn/).   
-Revision requested at *Stata Journal*.
+Accepted at *The Stata Journal*.
 <details>
 <summary><u>Abstract</u></summary> 
 <p> In this article, we introduce the Stata package trigmm. The trigmm command performs an estimation for the parameters of a triangular two equation system without instruments and reports standard errors. The method is based on Lewbel, Schennach, and Zhang
@@ -67,13 +67,15 @@ conditions for identification and derived associated moment conditions. The esti
 
 ## In Progress Projects
 
-"Buying in Small Quantities", with Yuzhi Yao. 
+<!--"Buying in Small Quantities", with Yuzhi Yao. 
 <details>
 <summary><u>Abstract</u></summary> 
 <p> Dollar stores feature products sold in small sizes, which are not necessarily cheaper in terms of unit price. The behavior of purchasing in smaller quantities, especially among low-income consumers, is puzzling given the quantity discount associated with bulk-buying. To unravel this phenomenon, we develop a structural model to disentangle potential explanations: limited access due to lack of transportation, liquidity constraints, and storage costs. </p>
-</details>
+</details>-->
 
 <!--	<p style="margin: 0px 0px 30px;">-->
+
+
 
 "Identification of Discrete-Continuous Models with Large Choice Sets and Complementarity".
 
