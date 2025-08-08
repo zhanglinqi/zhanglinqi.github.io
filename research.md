@@ -5,13 +5,14 @@ layout: research
 ## Working Papers
 
 
-["Identification and Estimation of Market Size in Discrete Choice Demand Models"](https://zhanglinqi.github.io/assets/pdf/market_size_Linqi_Zhang.pdf) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4545848)].   
+["Identification and Estimation of Market Size in Discrete Choice Demand Models"](https://zhanglinqi.github.io/assets/pdf/market_size_Linqi_Zhang.pdf).   
 Presentations: BC, BU-BC Econometrics Workshop, IIOC, CEA, EARIE, Microeconometrics Class of 2024 Conference   
 <details>
 <summary><u>Abstract</u></summary> 
 <p> Within the framework of Berry (1994) and Berry, Levinsohn, and Pakes (1995), the existing empirical industrial organization literature often assumes that market size is observed. However, the presence of an unobservable outside option is a common source of mismeasurement. Measurement errors in market size lead to inconsistent estimates of elasticities, diversion ratios, and counterfactual simulations. I explicitly model the market size, and prove point identification of the market size model along with all demand parameters in a random coefficients logit (BLP) model. No additional data beyond what is needed to estimate standard BLP models is required. Identification comes from the exogenous variation in product characteristics across markets and the nonlinearity of the demand system. I apply the method to a merger simulation in the carbonated soft drinks (CSD) market in the US, and find that assuming a market size larger than the true estimated size would underestimate merger price increases.
 </p>
 </details>
+<!-- [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4545848)]-->
 
 
 ["Who is Most Affected by Soda Taxes? Evidence from Purchases At-Home and Away-From-Home"](https://zhanglinqi.github.io/assets/pdf/soda_tax_Linqi_Zhang.pdf) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4953476)], with [Xirong Lin](http://www.xirong-lin.com).   
@@ -39,6 +40,12 @@ conditions for identification and derived associated moment conditions. The esti
 </p>
 </details>
 
+["Identification of Differentiated Products Demand with Micro Moments: Consumer Panel Data ",](https://www.dropbox.com/scl/fi/w1z7gbefvrqnl9gccaz3n/MicroMoments-main.pdf?rlkey=2953zy15wgbmuqqniayswatlq&st=y3qj1irz&dl=0) with [Øyvind Thomassen](https://sites.google.com/site/oyvindthomassen/).<details>
+<summary><u>Abstract</u></summary> 
+<p> This paper derives identification conditions for BLP-style differentiated products demand models with micro moments from consumer panel data. Identification leverages cross-period dependence of unobserved preference heterogeneity. Identification conditions are provided for models with nonparametrically specified random coefficients. Monte Carlo simulations suggest that incorporating consumer panel data can achieve performance comparable to that of second-choice data.
+</p>
+</details>
+
 ---
 
 ## Publications
@@ -62,7 +69,6 @@ conditions for identification and derived associated moment conditions. The esti
 </p>
 </details>
 
-
 ---
 
 ## In Progress Projects
@@ -75,9 +81,10 @@ conditions for identification and derived associated moment conditions. The esti
 
 <!--	<p style="margin: 0px 0px 30px;">-->
 
+"Partial Identification of Aggregate Demand Models with Unobserved Outside Options," with Federico A. Bugni.
 
 
-"Identification of Discrete-Continuous Models with Large Choice Sets and Complementarity".
+"Identifying Discrete-Continuous Demand Models with Simultaneity".
 
 <!--"Marijuana Tax and Product Variety".-->
 
