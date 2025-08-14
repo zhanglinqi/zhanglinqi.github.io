@@ -82,9 +82,6 @@ conditions for identification and derived associated moment conditions. The esti
 
 <!--	<p style="margin: 0px 0px 30px;">-->
 
-"Partial Identification of Aggregate Demand Models with Unobserved Outside Options," with Federico A. Bugni.
-
-
 "Identifying Discrete-Continuous Demand Models with Simultaneity".
 
 <!--"Marijuana Tax and Product Variety".-->
