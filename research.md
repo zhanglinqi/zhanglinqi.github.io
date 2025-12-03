@@ -16,22 +16,13 @@ Presentations: BC, BU-BC Econometrics Workshop, IIOC, CEA, EARIE, Microeconometr
 
 
 ["Who is Most Affected by Soda Taxes? Evidence from Purchases At-Home and Away-From-Home"](https://zhanglinqi.github.io/assets/pdf/soda_tax_Linqi_Zhang.pdf) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4953476)], with [Xirong Lin](http://www.xirong-lin.com).   
-Presentations: SEHO, BC
+*Revision Requested, Journal of Health Economics*
 <details>
 <summary><u>Abstract</u></summary> 
 <p> Using a novel dataset that includes at-home and away-from-home food purchases, we study who is affected by soda taxes. We nonparametrically estimate a random coefficient nested logit model to exploit the rich heterogeneity in preferences and price elasticities across households, including SNAP participants and non-SNAP-participant poor. By simulating its impacts, we find that soda taxes are less effective away-from-home while more effective at-home, especially by targeting the total sugar intake of the poor, those with high total dietary sugar, and households without children. Our results suggest that ignoring either segment can lead to biased policy implications.
 </p>
 </details>
 
-["Instrument-free estimation of triangular equation systems with the trigmm command",](https://drive.google.com/file/d/1ssduVrNYEQ9bbyhdq8nTTbKCnfGndskI/view) with Heejun Lee, [Arthur Lewbel](https://sites.google.com/bc.edu/arthur-lewbel) and [Susanne M. Schennach](https://sites.google.com/a/brown.edu/smschenn/).   
-Accepted at *The Stata Journal*.
-<details>
-<summary><u>Abstract</u></summary> 
-<p> In this article, we introduce the Stata package trigmm. The trigmm command performs an estimation for the parameters of a triangular two equation system without instruments and reports standard errors. The method is based on Lewbel, Schennach, and Zhang
-(Journal of Business & Economic Statistics, forthcoming), who have proposed sufficient
-conditions for identification and derived associated moment conditions. The estimation is conducted by casting the moment conditions into the built-in Stata command gmm. The usage of package trigmm is illustrated with simulated data and sample commands.
-</p>
-</details>
 
 ["Identifying Models With Mismeasured Endogenous Regressors Without Instruments: an Application to Monopsony in Academic Labor Markets",](https://zhanglinqi.github.io/assets/pdf/noside_error_monopsony_LZ_ZY.pdf) with [Zhanhan Yu](https://yuzhanhan.github.io/personal-website/).
 <details>
@@ -40,7 +31,8 @@ conditions for identification and derived associated moment conditions. The esti
 </p>
 </details>
 
-["Identification of Differentiated Products Demand with Micro Moments: Consumer Panel Data ",](https://www.dropbox.com/scl/fi/w1z7gbefvrqnl9gccaz3n/MicroMoments-main.pdf?rlkey=2953zy15wgbmuqqniayswatlq&st=y3qj1irz&dl=0) with [Øyvind Thomassen](https://sites.google.com/site/oyvindthomassen/).
+["Identification of Differentiated Products Demand with Micro Moments: Consumer Panel Data ",](https://www.dropbox.com/scl/fi/xyj37juqx0eizf5xdptj4/MicroMomentsManuscript_11October2025.pdf?rlkey=ptukzcaz1zdi16h45qz3bgavm&e=1&st=8va72f49&dl=0) with [Øyvind Thomassen](https://sites.google.com/site/oyvindthomassen/).
+*Revision Requested, Economics Letters*
 <details>
 <summary><u>Abstract</u></summary> 
 <p> This paper derives identification conditions for BLP-style differentiated products demand models with micro moments from consumer panel data. Identification leverages cross-period dependence of unobserved preference heterogeneity. Identification conditions are provided for models with nonparametrically specified random coefficients. Monte Carlo simulations suggest that incorporating consumer panel data can achieve performance comparable to that of second-choice data.
@@ -50,6 +42,17 @@ conditions for identification and derived associated moment conditions. The esti
 ---
 
 ## Publications
+
+
+["Instrument-free estimation of triangular equation systems with the trigmm command",](https://drive.google.com/file/d/1ssduVrNYEQ9bbyhdq8nTTbKCnfGndskI/view) with Heejun Lee, [Arthur Lewbel](https://sites.google.com/bc.edu/arthur-lewbel) and [Susanne M. Schennach](https://sites.google.com/a/brown.edu/smschenn/).   
+*Accepted, The Stata Journal*.
+<details>
+<summary><u>Abstract</u></summary> 
+<p> In this article, we introduce the Stata package trigmm. The trigmm command performs an estimation for the parameters of a triangular two equation system without instruments and reports standard errors. The method is based on Lewbel, Schennach, and Zhang
+(Journal of Business & Economic Statistics, forthcoming), who have proposed sufficient
+conditions for identification and derived associated moment conditions. The estimation is conducted by casting the moment conditions into the built-in Stata command gmm. The usage of package trigmm is illustrated with simulated data and sample commands.
+</p>
+</details>
 
 ["Assessing Sensitivity to Unconfoundedness: Estimation and Inference"](https://arxiv.org/abs/2012.15716) [[Replication files](https://dl.dropboxusercontent.com/s/rj6nxlh6howhzvg/Replication%20Code.zip?dl=0)], with [Matthew A. Masten](https://mattmasten.github.io) and [Alexandre Poirier](https://sites.google.com/site/alexpoirierecon/).      
 *Journal of Business & Economic Statistics*, 2024, 42(1), pp. 1-13.
