@@ -85,9 +85,11 @@ conditions for identification and derived associated moment conditions. The esti
 
 <!--	<p style="margin: 0px 0px 30px;">-->
 
+"Demand Estimation without Outside Good Shares", with Federico A. Bugni and Joel L. Horowitz.
+
 "Identifying Discrete-Continuous Demand Models with Simultaneity".
 
-<!--"Marijuana Tax and Product Variety".-->
+<!-- "Marijuana Tax and Product Variety". -->
 
 
 <!--[back](./)-->

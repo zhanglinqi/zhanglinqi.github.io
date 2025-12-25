@@ -25,7 +25,6 @@ I obtained my Ph.D. from Boston College. I worked as a postdoc researcher at the
 ---
 
 **Contact**   
-Room 749H, 7/F    
 Cheng Yu Tung Building    
 12 Chak Cheung Street    
 Shatin, N.T., Hong Kong	    
