@@ -44,7 +44,7 @@ Presentations: BC, BU-BC Econometrics Workshop, IIOC, CEA, EARIE, Microeconometr
 ## Publications
 
 ["Identification of Differentiated Products Demand with Micro Moments: Consumer Panel Data ",](https://www.dropbox.com/scl/fi/ksa771xhunf6ympnx9tzb/MicroMoments.pdf?rlkey=x0y3dreuok36z44581lb87cyk&e=1&st=tn0qvsce&dl=0) with [Øyvind Thomassen](https://sites.google.com/site/oyvindthomassen/).
-*Accepted, Economics Letters*
+*Economics Letters, 2026, Volume 263, 112905*
 <details>
 <summary><u>Abstract</u></summary> 
 <p> This paper derives identification conditions for BLP (Berry, Levinsohn, & Pakes, 1995)-style differentiated products demand models with micro moments from consumer panel data in a setting with i.i.d. logit shocks. Identification leverages cross-period dependence of unobserved preference heterogeneity. Identification conditions are also provided for models with nonparametrically specified random coefficients. Monte Carlo simulation studies demonstrate satisfactory finite sample performance.
@@ -53,7 +53,7 @@ Presentations: BC, BU-BC Econometrics Workshop, IIOC, CEA, EARIE, Microeconometr
 
 
 ["Instrument-free estimation of triangular equation systems with the trigmm command",](https://drive.google.com/file/d/1ssduVrNYEQ9bbyhdq8nTTbKCnfGndskI/view) with Heejun Lee, [Arthur Lewbel](https://sites.google.com/bc.edu/arthur-lewbel) and [Susanne M. Schennach](https://sites.google.com/a/brown.edu/smschenn/).   
-*Accepted, The Stata Journal*.
+*The Stata Journal, 2026, 26(1), pp.68-89.*.
 <details>
 <summary><u>Abstract</u></summary> 
 <p> In this article, we introduce the Stata package trigmm. The trigmm command performs an estimation for the parameters of a triangular two equation system without instruments and reports standard errors. The method is based on Lewbel, Schennach, and Zhang
