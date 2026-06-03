@@ -15,7 +15,7 @@ Presentations: BC, BU-BC Econometrics Workshop, IIOC, CEA, EARIE, Microeconometr
  
 
 ["Who is Most Affected by Soda Taxes? Evidence from Purchases At-Home and Away-From-Home"](https://zhanglinqi.github.io/assets/pdf/soda_tax_Linqi_Zhang.pdf) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4953476)], with [Xirong Lin](http://www.xirong-lin.com).   
-*Revision Requested, Journal of Health Economics*
+*Revised and Resubmitted, Journal of Health Economics*
 <details>
 <summary><u>Abstract</u></summary> 
 <p> Using a novel dataset that includes at-home and away-from-home food purchases, we study who is affected by soda taxes. We nonparametrically estimate a random coefficient nested logit model to exploit the rich heterogeneity in preferences and price elasticities across households, including SNAP participants and non-SNAP-participant poor. By simulating its impacts, we find that soda taxes are less effective away-from-home while more effective at-home, especially by targeting the total sugar intake of the poor, those with high total dietary sugar, and households without children. Our results suggest that ignoring either segment can lead to biased policy implications.
@@ -31,12 +31,12 @@ Presentations: BC, BU-BC Econometrics Workshop, IIOC, CEA, EARIE, Microeconometr
 </details>
 
 
-<!-- "Demand Estimation without Outside Good Shares", [[arXiv](https://arxiv.org/abs/2602.19154v1)] with [Federico A. Bugni](https://sites.northwestern.edu/federicobugni/) and [Joel L. Horowitz](https://economics.northwestern.edu/people/directory/joel-horowitz.html).
+"Demand Estimation without the Knowledge of Outside Good Shares", [[arXiv](https://arxiv.org/abs/2602.19154v1)] with [Federico A. Bugni](https://sites.northwestern.edu/federicobugni/) and [Joel L. Horowitz](https://economics.northwestern.edu/people/directory/joel-horowitz.html).
 <details>
 <summary><u>Abstract</u></summary> 
 <p> The BLP model is the workhorse framework in empirical IO and enables estimation of demand models for differentiated products using aggregate product shares. In practice, however, the share of the outside good is often unobserved. This paper studies identification and inference in the BLP model when the share of the outside good is unobserved. We show that the model is partially identified, and we derive sharp identified sets for structural parameters and equilibrium objects. We also develop inference procedures based on moment inequalities that deliver valid confidence sets for these structural parameters and equilibrium objects.
 </p>
-</details> -->
+</details>
 
 
 ---
@@ -93,7 +93,7 @@ conditions for identification and derived associated moment conditions. The esti
 
 <!--	<p style="margin: 0px 0px 30px;">-->
 
-"Demand Estimation without Outside Good Shares", with Federico A. Bugni and Joel L. Horowitz.
+"Demand Model Identification with Consumer Search", with Michael Choi.
 
 "Identifying Discrete-Continuous Demand Models with Simultaneity".
 
