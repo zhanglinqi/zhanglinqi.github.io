@@ -31,7 +31,7 @@ Presentations: BC, BU-BC Econometrics Workshop, IIOC, CEA, EARIE, Microeconometr
 </details>
 
 
-"Demand Estimation without the Knowledge of Outside Good Shares", [[arXiv](https://arxiv.org/abs/2602.19154v1)] with [Federico A. Bugni](https://sites.northwestern.edu/federicobugni/) and [Joel L. Horowitz](https://economics.northwestern.edu/people/directory/joel-horowitz.html).
+"Demand Estimation without Knowledge of Outside Good Shares", [[arXiv](https://arxiv.org/abs/2602.19154v1)] with [Federico A. Bugni](https://sites.northwestern.edu/federicobugni/) and [Joel L. Horowitz](https://economics.northwestern.edu/people/directory/joel-horowitz.html).
 <details>
 <summary><u>Abstract</u></summary> 
 <p> The BLP model is the workhorse framework in empirical IO and enables estimation of demand models for differentiated products using aggregate product shares. In practice, however, the share of the outside good is often unobserved. This paper studies identification and inference in the BLP model when the share of the outside good is unobserved. We show that the model is partially identified, and we derive sharp identified sets for structural parameters and equilibrium objects. We also develop inference procedures based on moment inequalities that deliver valid confidence sets for these structural parameters and equilibrium objects.
