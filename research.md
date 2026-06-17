@@ -23,7 +23,7 @@ Presentations: BC, BU-BC Econometrics Workshop, IIOC, CEA, EARIE, Microeconometr
 </details>
 
 
-["Identifying Models With Mismeasured Endogenous Regressors Without Instruments: an Application to Monopsony in Academic Labor Markets",](https://zhanglinqi.github.io/assets/pdf/noside_error_monopsony_LZ_ZY.pdf) with [Zhanhan Yu](https://yuzhanhan.github.io/personal-website/).
+["Identifying Models With Mismeasured Endogenous Regressors Without Instruments: an Application to Monopsony in Academic Labor Markets"](https://zhanglinqi.github.io/assets/pdf/noside_error_monopsony_LZ_ZY.pdf), with [Zhanhan Yu](https://yuzhanhan.github.io/personal-website/).
 <details>
 <summary><u>Abstract</u></summary> 
 <p> We extend the linear triangular structural model considered in Lewbel, Schennach, and Zhang (2024) to allow for measurement errors in the endogenous regressor. We show identification of the causal effect and distributions of unobservables using higher-order moments of variables when instrumental variables or repeated measurements are not available. We apply this approach to study monopsony power in the labor market for university professors at public research universities within the University System of Georgia, addressing endogeneity and measurement error concerns related to faculty salaries in the absence of suitable instruments. We find evidence of monopsony, with the exploitation rate -- a common measure of monopsony power -- robustly estimated at 36%. Our analysis shows that ignoring measurement error would significantly underestimate monopsony power.
@@ -31,7 +31,7 @@ Presentations: BC, BU-BC Econometrics Workshop, IIOC, CEA, EARIE, Microeconometr
 </details>
 
 
-["Demand Estimation without Knowledge of Outside Good Shares",](https://arxiv.org/pdf/2602.19154v2) [[arXiv](https://arxiv.org/abs/2602.19154)] with [Federico A. Bugni](https://sites.northwestern.edu/federicobugni/) and [Joel L. Horowitz](https://economics.northwestern.edu/people/directory/joel-horowitz.html).
+["Demand Estimation without Knowledge of Outside Good Shares"](https://arxiv.org/pdf/2602.19154v2) [[arXiv](https://arxiv.org/abs/2602.19154)], with [Federico A. Bugni](https://sites.northwestern.edu/federicobugni/) and [Joel L. Horowitz](https://economics.northwestern.edu/people/directory/joel-horowitz.html).
 <details>
 <summary><u>Abstract</u></summary> 
 <p> The BLP model is the workhorse framework for estimating demand for differentiated products using aggregate product shares. In practice, however, the share of the outside good is often unavailable. This paper studies identification and inference in the BLP model when the share of the outside good is unobserved. We show that the model is partially identified, and we derive the identified sets for the structural parameters and other quantities of economic interest. We also develop inference procedures based on moment inequalities that deliver valid confidence sets for these structural parameters and quantities of economic interest. We illustrate our results with an empirical application based on the tuna data analyzed by Gandhi et al. (2023).
